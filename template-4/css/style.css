@@ -111,7 +111,6 @@ a {
 
 .sidebar h3 {
   margin-bottom: 50px;
-  margin-top: 42px;
 }
 @media (min-width: 767px) {
   .sidebar h3::after {
